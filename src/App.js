@@ -6,11 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>LAB10 PART C</h1>
 
-        <p>Hi mom!</p>
+        <p>I used the JavaScript Framework React to build this website. I used online hosting service Netlify to deploy it. I used the following steps: </p> <br>
+        <p>1. Install Node.js</p>
       </header>
     </div>
   );
